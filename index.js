@@ -23,7 +23,7 @@ class BoardMember{
   };
 };
 
- class BoardMember extends Ceo {
+ class Ceo extends BoardMember {
    hireEmployee(){
     super.hireEmployee()
     return ('Welcome aboard!')
