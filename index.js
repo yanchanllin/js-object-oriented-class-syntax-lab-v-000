@@ -27,3 +27,4 @@ class BoardMember{
    hireEmployee(){
     return ('Welcome aboard!')
  };
+};
